@@ -1,0 +1,211 @@
+{
+  "eventId": "y6-split2-playoffs",
+  "updatedAt": "2026-10-26T19:55:38.542Z",
+  "source": {
+    "name": "Liquipedia",
+    "url": "https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2026/Split_2/Playoffs/Group_Stage",
+    "license": "CC-BY-SA 3.0"
+  },
+  "teams": [
+    {
+      "teamId": "zeta",
+      "name": "ZETA DIVISION",
+      "group": "A"
+    },
+    {
+      "teamId": "alliance",
+      "name": "Alliance",
+      "group": "A"
+    },
+    {
+      "teamId": "vkg",
+      "name": "VK Gaming",
+      "group": "A"
+    },
+    {
+      "teamId": "geekay",
+      "name": "Geekay Esports",
+      "group": "A"
+    },
+    {
+      "teamId": "sen",
+      "name": "Sentinels",
+      "group": "A"
+    },
+    {
+      "teamId": "pxx",
+      "name": "PXX",
+      "group": "A"
+    },
+    {
+      "teamId": "war",
+      "name": "Team WaR",
+      "group": "A"
+    },
+    {
+      "teamId": "ltx",
+      "name": "LawsonTicketXone",
+      "group": "A"
+    },
+    {
+      "teamId": "noez",
+      "name": "NOEZ FOXX",
+      "group": "A"
+    },
+    {
+      "teamId": "forged-wolves",
+      "name": "Forged Wolves",
+      "group": "A"
+    },
+    {
+      "teamId": "wolves",
+      "name": "Wolves Esports",
+      "group": "B"
+    },
+    {
+      "teamId": "falcons",
+      "name": "Team Falcons",
+      "group": "B"
+    },
+    {
+      "teamId": "reject",
+      "name": "REJECT",
+      "group": "B"
+    },
+    {
+      "teamId": "gaimin",
+      "name": "Gaimin Gladiators",
+      "group": "B"
+    },
+    {
+      "teamId": "ffe",
+      "name": "For Fun Esports",
+      "group": "B"
+    },
+    {
+      "teamId": "wgr",
+      "name": "White Grim Reaper",
+      "group": "B"
+    },
+    {
+      "teamId": "ag",
+      "name": "All Gamers Global",
+      "group": "B"
+    },
+    {
+      "teamId": "7ven",
+      "name": "7VEN",
+      "group": "B"
+    },
+    {
+      "teamId": "nrg",
+      "name": "NRG",
+      "group": "B"
+    },
+    {
+      "teamId": "vexx",
+      "name": "VexX Gaming",
+      "group": "B"
+    },
+    {
+      "teamId": "vision",
+      "name": "Team Vision",
+      "group": "C"
+    },
+    {
+      "teamId": "rrq",
+      "name": "RRQ",
+      "group": "C"
+    },
+    {
+      "teamId": "parivision",
+      "name": "PARIVISION",
+      "group": "C"
+    },
+    {
+      "teamId": "ef36",
+      "name": "ENTER FORCE.36",
+      "group": "C"
+    },
+    {
+      "teamId": "kinotrope-club",
+      "name": "KINOTROPE Club",
+      "group": "C"
+    },
+    {
+      "teamId": "eclipse",
+      "name": "Team Eclipse",
+      "group": "C"
+    },
+    {
+      "teamId": "titan",
+      "name": "Titan Esports Club",
+      "group": "C"
+    },
+    {
+      "teamId": "crazy-thieves",
+      "name": "Crazy Thieves",
+      "group": "C"
+    },
+    {
+      "teamId": "dinos",
+      "name": "DINOS",
+      "group": "C"
+    },
+    {
+      "teamId": "nice-guys",
+      "name": "Nice Guys",
+      "group": "C"
+    },
+    {
+      "teamId": "aurora",
+      "name": "Aurora Gaming",
+      "group": "D"
+    },
+    {
+      "teamId": "unlimit",
+      "name": "UNLIMIT",
+      "group": "D"
+    },
+    {
+      "teamId": "nip",
+      "name": "Ninjas in Pyjamas",
+      "group": "D"
+    },
+    {
+      "teamId": "dcg",
+      "name": "Deep Cross Gaming",
+      "group": "D"
+    },
+    {
+      "teamId": "geng-citadel",
+      "name": "Gen.G Citadel",
+      "group": "D"
+    },
+    {
+      "teamId": "liquid",
+      "name": "Team Liquid",
+      "group": "D"
+    },
+    {
+      "teamId": "riddle",
+      "name": "RIDDLE ZERO",
+      "group": "D"
+    },
+    {
+      "teamId": "kinotrope-gaming",
+      "name": "KINOTROPE gaming",
+      "group": "D"
+    },
+    {
+      "teamId": "sr",
+      "name": "Shopify Rebellion",
+      "group": "D"
+    },
+    {
+      "teamId": "world-wide",
+      "name": "World Wide",
+      "group": "D"
+    }
+  ]
+}

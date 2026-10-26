@@ -1,0 +1,7 @@
+{
+  "eventId": "y6-split2-playoffs",
+  "title": "ALGS Year 6 Split 2 Playoffs",
+  "schedule": "events/y6-split2-playoffs/schedule.json",
+  "teams": "events/y6-split2-playoffs/teams.json",
+  "results": "events/y6-split2-playoffs/results.json"
+}
