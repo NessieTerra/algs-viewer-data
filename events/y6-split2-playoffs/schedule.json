@@ -1,0 +1,142 @@
+{
+  "eventId": "y6-split2-playoffs",
+  "updatedAt": "2026-10-26T20:10:00.000Z",
+  "event": {
+    "name": "ALGS Year 6 Split 2 Playoffs",
+    "location": "美国拉斯维加斯 · Orleans Arena",
+    "timezone": "Asia/Shanghai",
+    "source": "https://algs.ea.com/en/year-6/split-2-playoffs/schedule"
+  },
+  "matches": [
+    {
+      "id": "gs-ab-d1",
+      "day": 1,
+      "date": "2026-10-30",
+      "weekday": "周五",
+      "time": "01:00",
+      "start": "2026-10-30T01:00:00+08:00",
+      "stage": "小组赛",
+      "title": "A组 vs B组",
+      "groups": ["A", "B"],
+      "teamIds": ["zeta", "alliance", "vkg", "geekay", "sen", "pxx", "war", "ltx", "noez", "forged-wolves", "wolves", "falcons", "reject", "gaimin", "ffe", "wgr", "ag", "7ven", "nrg", "vexx"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "gs-cd-d1",
+      "day": 1,
+      "date": "2026-10-30",
+      "weekday": "周五",
+      "time": "05:15",
+      "start": "2026-10-30T05:15:00+08:00",
+      "stage": "小组赛",
+      "title": "C组 vs D组",
+      "groups": ["C", "D"],
+      "teamIds": ["vision", "rrq", "parivision", "ef36", "kinotrope-club", "eclipse", "titan", "crazy-thieves", "dinos", "nice-guys", "aurora", "unlimit", "nip", "dcg", "geng-citadel", "liquid", "riddle", "kinotrope-gaming", "sr", "world-wide"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "gs-bd-d1",
+      "day": 1,
+      "date": "2026-10-30",
+      "weekday": "周五",
+      "time": "09:30",
+      "start": "2026-10-30T09:30:00+08:00",
+      "stage": "小组赛",
+      "title": "B组 vs D组",
+      "groups": ["B", "D"],
+      "teamIds": ["wolves", "falcons", "reject", "gaimin", "ffe", "wgr", "ag", "7ven", "nrg", "vexx", "aurora", "unlimit", "nip", "dcg", "geng-citadel", "liquid", "riddle", "kinotrope-gaming", "sr", "world-wide"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "gs-ac-d2",
+      "day": 2,
+      "date": "2026-10-31",
+      "weekday": "周六",
+      "time": "01:00",
+      "start": "2026-10-31T01:00:00+08:00",
+      "stage": "小组赛",
+      "title": "A组 vs C组",
+      "groups": ["A", "C"],
+      "teamIds": ["zeta", "alliance", "vkg", "geekay", "sen", "pxx", "war", "ltx", "noez", "forged-wolves", "vision", "rrq", "parivision", "ef36", "kinotrope-club", "eclipse", "titan", "crazy-thieves", "dinos", "nice-guys"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "gs-bc-d2",
+      "day": 2,
+      "date": "2026-10-31",
+      "weekday": "周六",
+      "time": "05:15",
+      "start": "2026-10-31T05:15:00+08:00",
+      "stage": "小组赛",
+      "title": "B组 vs C组",
+      "groups": ["B", "C"],
+      "teamIds": ["wolves", "falcons", "reject", "gaimin", "ffe", "wgr", "ag", "7ven", "nrg", "vexx", "vision", "rrq", "parivision", "ef36", "kinotrope-club", "eclipse", "titan", "crazy-thieves", "dinos", "nice-guys"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "gs-ad-d2",
+      "day": 2,
+      "date": "2026-10-31",
+      "weekday": "周六",
+      "time": "09:30",
+      "start": "2026-10-31T09:30:00+08:00",
+      "stage": "小组赛",
+      "title": "A组 vs D组",
+      "groups": ["A", "D"],
+      "teamIds": ["zeta", "alliance", "vkg", "geekay", "sen", "pxx", "war", "ltx", "noez", "forged-wolves", "aurora", "unlimit", "nip", "dcg", "geng-citadel", "liquid", "riddle", "kinotrope-gaming", "sr", "world-wide"],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "lb-r1",
+      "day": 3,
+      "date": "2026-11-01",
+      "weekday": "周日",
+      "time": "01:00",
+      "start": "2026-11-01T01:00:00+08:00",
+      "stage": "淘汰赛",
+      "title": "淘汰轮 1",
+      "groups": [],
+      "teamIds": [],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "wb",
+      "day": 3,
+      "date": "2026-11-01",
+      "weekday": "周日",
+      "time": "05:15",
+      "start": "2026-11-01T05:15:00+08:00",
+      "stage": "淘汰赛",
+      "title": "胜者组",
+      "groups": [],
+      "teamIds": [],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "lb-r2",
+      "day": 3,
+      "date": "2026-11-01",
+      "weekday": "周日",
+      "time": "09:30",
+      "start": "2026-11-01T09:30:00+08:00",
+      "stage": "淘汰赛",
+      "title": "淘汰轮 2",
+      "groups": [],
+      "teamIds": [],
+      "format": "6局系列赛"
+    },
+    {
+      "id": "grand-finals",
+      "day": 4,
+      "date": "2026-11-02",
+      "weekday": "周一",
+      "time": "07:00",
+      "start": "2026-11-02T07:00:00+08:00",
+      "stage": "总决赛",
+      "title": "总决赛（Match Point 50）",
+      "groups": [],
+      "teamIds": [],
+      "format": "Match Point 50（最多12局）"
+    }
+  ]
+}
