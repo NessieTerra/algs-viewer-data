@@ -1,10 +1,61 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-26T19:45:00.000Z",
+  "updatedAt": "2026-10-27T13:31:34.075Z",
   "source": {
     "name": "Liquipedia",
     "url": "https://liquipedia.net/apexlegends/Apex_Legends_Global_Series/2026/Split_2/Playoffs",
     "license": "CC-BY-SA 3.0"
   },
-  "series": []
+  "series": [],
+  "matchStates": {
+    "gs-ab-d1": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "gs-cd-d1": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "gs-bd-d1": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "gs-ac-d2": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "gs-bc-d2": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "gs-ad-d2": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z"
+    },
+    "lb-r1": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z",
+      "completedGames": 0,
+      "totalGames": 6
+    },
+    "wb": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z",
+      "completedGames": 0,
+      "totalGames": 6
+    },
+    "lb-r2": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z",
+      "completedGames": 0,
+      "totalGames": 6
+    },
+    "finals": {
+      "status": "scheduled",
+      "updatedAt": "2026-10-27T13:31:34.075Z",
+      "completedGames": 0,
+      "totalGames": 12
+    }
+  },
+  "teamStatus": {}
 }
