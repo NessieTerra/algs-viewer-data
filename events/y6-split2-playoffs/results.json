@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-29T23:28:05.318Z",
+  "updatedAt": "2026-10-29T23:33:05.370Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -76,17 +76,17 @@
         {
           "teamId": "vision",
           "rank": 13,
-          "points": 29
+          "points": 30
         },
         {
-          "teamId": "sen",
+          "teamId": "kinotrope-gaming",
           "rank": 14,
           "points": 29
         },
         {
-          "teamId": "kinotrope-gaming",
+          "teamId": "sen",
           "rank": 15,
-          "points": 28
+          "points": 29
         },
         {
           "teamId": "gaimin",
@@ -166,17 +166,17 @@
         {
           "teamId": "crazy-thieves",
           "rank": 31,
-          "points": 14
+          "points": 15
         },
         {
-          "teamId": "ltx",
+          "teamId": "nip",
           "rank": 32,
           "points": 14
         },
         {
-          "teamId": "nip",
+          "teamId": "ltx",
           "rank": 33,
-          "points": 13
+          "points": 14
         },
         {
           "teamId": "rrq",
@@ -206,7 +206,7 @@
         {
           "teamId": "eclipse",
           "rank": 39,
-          "points": 4
+          "points": 5
         },
         {
           "teamId": "parivision",
@@ -335,12 +335,12 @@
         {
           "teamId": "vision",
           "rank": 2,
-          "points": 29
+          "points": 30
         },
         {
           "teamId": "kinotrope-gaming",
           "rank": 3,
-          "points": 28
+          "points": 29
         },
         {
           "teamId": "world-wide",
@@ -385,12 +385,12 @@
         {
           "teamId": "crazy-thieves",
           "rank": 12,
-          "points": 14
+          "points": 15
         },
         {
           "teamId": "nip",
           "rank": 13,
-          "points": 13
+          "points": 14
         },
         {
           "teamId": "rrq",
@@ -420,7 +420,7 @@
         {
           "teamId": "eclipse",
           "rank": 19,
-          "points": 4
+          "points": 5
         },
         {
           "teamId": "parivision",
@@ -433,13 +433,13 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "live",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 3,
       "totalGames": 6,
       "currentGame": 4,
@@ -448,49 +448,49 @@
     },
     "gs-bd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T23:28:05.318Z",
+      "updatedAt": "2026-10-29T23:33:05.370Z",
       "completedGames": 0,
       "totalGames": 18
     }
