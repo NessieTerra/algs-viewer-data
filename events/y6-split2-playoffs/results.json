@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-29T17:32:13.645Z",
+  "updatedAt": "2026-10-29T17:33:03.557Z",
   "source": {
     "name": "CitoAPI",
     "url": "https://citoapi.com/algs-api/",
@@ -10,43 +10,43 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "live",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "gs-cd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "gs-bd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "gs-ac-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "gs-bc-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:32:13.645Z"
+      "updatedAt": "2026-10-29T17:33:03.557Z"
     }
   },
   "teamStatus": {}
