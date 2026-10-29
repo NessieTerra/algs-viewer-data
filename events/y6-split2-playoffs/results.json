@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-29T18:13:03.723Z",
+  "updatedAt": "2026-10-29T18:18:04.377Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -57,27 +57,27 @@
           "points": 5
         },
         {
-          "teamId": "vexx",
+          "teamId": "wolves",
           "rank": 10,
-          "points": 3
+          "points": 5
         },
         {
-          "teamId": "nrg",
+          "teamId": "vexx",
           "rank": 11,
           "points": 3
         },
         {
-          "teamId": "war",
+          "teamId": "nrg",
           "rank": 12,
-          "points": 2
-        },
-        {
-          "teamId": "wolves",
-          "rank": 13,
-          "points": 2
+          "points": 3
         },
         {
           "teamId": "wgr",
+          "rank": 13,
+          "points": 3
+        },
+        {
+          "teamId": "war",
           "rank": 14,
           "points": 2
         },
@@ -99,7 +99,7 @@
         {
           "teamId": "7ven",
           "rank": 18,
-          "points": 0
+          "points": 1
         },
         {
           "teamId": "sen",
@@ -139,7 +139,7 @@
         },
         {
           "teamId": "war",
-          "rank": 12,
+          "rank": 14,
           "points": 2
         },
         {
@@ -199,29 +199,29 @@
           "points": 7
         },
         {
-          "teamId": "vexx",
+          "teamId": "wolves",
           "rank": 10,
-          "points": 3
+          "points": 5
         },
         {
-          "teamId": "nrg",
+          "teamId": "vexx",
           "rank": 11,
           "points": 3
         },
         {
-          "teamId": "wolves",
-          "rank": 13,
-          "points": 2
+          "teamId": "nrg",
+          "rank": 12,
+          "points": 3
         },
         {
           "teamId": "wgr",
-          "rank": 14,
-          "points": 2
+          "rank": 13,
+          "points": 3
         },
         {
           "teamId": "7ven",
           "rank": 18,
-          "points": 0
+          "points": 1
         }
       ]
     }
@@ -229,7 +229,7 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "live",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 1,
       "totalGames": 6,
       "currentGame": 2,
@@ -237,55 +237,55 @@
     },
     "gs-cd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T18:13:03.723Z",
+      "updatedAt": "2026-10-29T18:18:04.377Z",
       "completedGames": 0,
       "totalGames": 18
     }
