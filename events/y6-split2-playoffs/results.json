@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-29T19:33:04.433Z",
+  "updatedAt": "2026-10-29T19:38:04.775Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -14,19 +14,19 @@
       "title": "小组赛 · 总积分",
       "standings": [
         {
-          "teamId": "falcons",
+          "teamId": "alliance",
           "rank": 1,
+          "points": 55
+        },
+        {
+          "teamId": "falcons",
+          "rank": 2,
           "points": 48
         },
         {
           "teamId": "ffe",
-          "rank": 2,
-          "points": 47
-        },
-        {
-          "teamId": "alliance",
           "rank": 3,
-          "points": 46
+          "points": 47
         },
         {
           "teamId": "wgr",
@@ -74,14 +74,14 @@
           "points": 17
         },
         {
-          "teamId": "ag",
+          "teamId": "pxx",
           "rank": 13,
-          "points": 13
+          "points": 14
         },
         {
-          "teamId": "pxx",
+          "teamId": "ag",
           "rank": 14,
-          "points": 12
+          "points": 13
         },
         {
           "teamId": "war",
@@ -221,19 +221,19 @@
       "title": "A组 vs B组",
       "standings": [
         {
-          "teamId": "falcons",
+          "teamId": "alliance",
           "rank": 1,
+          "points": 55
+        },
+        {
+          "teamId": "falcons",
+          "rank": 2,
           "points": 48
         },
         {
           "teamId": "ffe",
-          "rank": 2,
-          "points": 47
-        },
-        {
-          "teamId": "alliance",
           "rank": 3,
-          "points": 46
+          "points": 47
         },
         {
           "teamId": "wgr",
@@ -281,14 +281,14 @@
           "points": 17
         },
         {
-          "teamId": "ag",
+          "teamId": "pxx",
           "rank": 13,
-          "points": 13
+          "points": 14
         },
         {
-          "teamId": "pxx",
+          "teamId": "ag",
           "rank": 14,
-          "points": 12
+          "points": 13
         },
         {
           "teamId": "war",
@@ -325,65 +325,62 @@
   ],
   "matchStates": {
     "gs-ab-d1": {
-      "status": "live",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
-      "completedGames": 3,
-      "totalGames": 6,
-      "currentGame": 4,
-      "currentMap": "E-District",
-      "currentMapZh": "电力区"
+      "status": "between_games",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
+      "completedGames": 4,
+      "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T19:33:04.433Z",
+      "updatedAt": "2026-10-29T19:38:04.775Z",
       "completedGames": 0,
       "totalGames": 18
     }
