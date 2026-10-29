@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-29T17:43:02.887Z",
+  "updatedAt": "2026-10-29T17:48:29.468Z",
   "source": {
     "name": "CitoAPI",
     "url": "https://citoapi.com/algs-api/",
@@ -10,61 +10,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "live",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 1,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-29T17:43:02.887Z",
+      "updatedAt": "2026-10-29T17:48:29.468Z",
       "completedGames": 0,
       "totalGames": 18
     }
