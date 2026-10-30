@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-30T21:43:05.215Z",
+  "updatedAt": "2026-10-30T21:47:52.065Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -16,7 +16,7 @@
         {
           "teamId": "dinos",
           "rank": 1,
-          "points": 129
+          "points": 130
         },
         {
           "teamId": "liquid",
@@ -54,99 +54,99 @@
           "points": 90
         },
         {
-          "teamId": "zeta",
+          "teamId": "kinotrope-club",
           "rank": 9,
-          "points": 85
+          "points": 86
         },
         {
           "teamId": "vision",
           "rank": 10,
-          "points": 85
+          "points": 86
         },
         {
-          "teamId": "kinotrope-club",
+          "teamId": "zeta",
           "rank": 11,
-          "points": 83
+          "points": 85
         },
         {
           "teamId": "wgr",
           "rank": 12,
-          "points": 82
+          "points": 83
         },
         {
           "teamId": "falcons",
           "rank": 13,
-          "points": 80
-        },
-        {
-          "teamId": "nip",
-          "rank": 14,
-          "points": 73
+          "points": 81
         },
         {
           "teamId": "crazy-thieves",
+          "rank": 14,
+          "points": 77
+        },
+        {
+          "teamId": "reject",
           "rank": 15,
           "points": 73
         },
         {
-          "teamId": "reject",
+          "teamId": "nip",
           "rank": 16,
-          "points": 72
+          "points": 73
         },
         {
           "teamId": "ffe",
           "rank": 17,
-          "points": 71
+          "points": 72
+        },
+        {
+          "teamId": "eclipse",
+          "rank": 18,
+          "points": 72
         },
         {
           "teamId": "forged-wolves",
-          "rank": 18,
+          "rank": 19,
           "points": 71
         },
         {
           "teamId": "geng-citadel",
-          "rank": 19,
-          "points": 70
-        },
-        {
-          "teamId": "eclipse",
           "rank": 20,
-          "points": 69
+          "points": 70
         },
         {
           "teamId": "nrg",
           "rank": 21,
-          "points": 67
+          "points": 68
         },
         {
-          "teamId": "world-wide",
+          "teamId": "ag",
           "rank": 22,
           "points": 66
         },
         {
-          "teamId": "ag",
+          "teamId": "world-wide",
           "rank": 23,
-          "points": 61
+          "points": 66
         },
         {
-          "teamId": "dcg",
+          "teamId": "vexx",
           "rank": 24,
-          "points": 61
+          "points": 62
         },
         {
-          "teamId": "sen",
+          "teamId": "gaimin",
           "rank": 25,
           "points": 61
         },
         {
-          "teamId": "vexx",
+          "teamId": "dcg",
           "rank": 26,
-          "points": 60
+          "points": 61
         },
         {
-          "teamId": "gaimin",
+          "teamId": "sen",
           "rank": 27,
-          "points": 58
+          "points": 61
         },
         {
           "teamId": "vkg",
@@ -156,12 +156,12 @@
         {
           "teamId": "wolves",
           "rank": 29,
-          "points": 57
+          "points": 58
         },
         {
           "teamId": "ef36",
           "rank": 30,
-          "points": 55
+          "points": 57
         },
         {
           "teamId": "kinotrope-gaming",
@@ -181,12 +181,12 @@
         {
           "teamId": "titan",
           "rank": 34,
-          "points": 48
+          "points": 49
         },
         {
           "teamId": "nice-guys",
           "rank": 35,
-          "points": 47
+          "points": 48
         },
         {
           "teamId": "war",
@@ -201,7 +201,7 @@
         {
           "teamId": "7ven",
           "rank": 38,
-          "points": 35
+          "points": 39
         },
         {
           "teamId": "ltx",
@@ -649,102 +649,102 @@
       "title": "B组 vs C组",
       "standings": [
         {
-          "teamId": "wolves",
-          "rank": 1,
-          "points": 1
-        },
-        {
           "teamId": "crazy-thieves",
-          "rank": 2,
-          "points": 1
-        },
-        {
-          "teamId": "titan",
-          "rank": 3,
-          "points": 1
-        },
-        {
-          "teamId": "falcons",
-          "rank": 4,
-          "points": 1
-        },
-        {
-          "teamId": "kinotrope-club",
-          "rank": 5,
-          "points": 1
-        },
-        {
-          "teamId": "rrq",
-          "rank": 6,
-          "points": 0
-        },
-        {
-          "teamId": "wgr",
-          "rank": 7,
-          "points": 0
-        },
-        {
-          "teamId": "vision",
-          "rank": 8,
-          "points": 0
-        },
-        {
-          "teamId": "ef36",
-          "rank": 9,
-          "points": 0
-        },
-        {
-          "teamId": "ffe",
-          "rank": 10,
-          "points": 0
-        },
-        {
-          "teamId": "reject",
-          "rank": 11,
-          "points": 0
-        },
-        {
-          "teamId": "parivision",
-          "rank": 12,
-          "points": 0
-        },
-        {
-          "teamId": "nice-guys",
-          "rank": 13,
-          "points": 0
-        },
-        {
-          "teamId": "nrg",
-          "rank": 14,
-          "points": 0
-        },
-        {
-          "teamId": "dinos",
-          "rank": 15,
-          "points": 0
-        },
-        {
-          "teamId": "eclipse",
-          "rank": 16,
-          "points": 0
-        },
-        {
-          "teamId": "vexx",
-          "rank": 17,
-          "points": 0
-        },
-        {
-          "teamId": "ag",
-          "rank": 18,
-          "points": 0
+          "rank": 1,
+          "points": 5
         },
         {
           "teamId": "7ven",
+          "rank": 2,
+          "points": 4
+        },
+        {
+          "teamId": "ag",
+          "rank": 3,
+          "points": 4
+        },
+        {
+          "teamId": "kinotrope-club",
+          "rank": 4,
+          "points": 4
+        },
+        {
+          "teamId": "gaimin",
+          "rank": 5,
+          "points": 3
+        },
+        {
+          "teamId": "eclipse",
+          "rank": 6,
+          "points": 3
+        },
+        {
+          "teamId": "wolves",
+          "rank": 7,
+          "points": 2
+        },
+        {
+          "teamId": "vexx",
+          "rank": 8,
+          "points": 2
+        },
+        {
+          "teamId": "titan",
+          "rank": 9,
+          "points": 2
+        },
+        {
+          "teamId": "ef36",
+          "rank": 10,
+          "points": 2
+        },
+        {
+          "teamId": "falcons",
+          "rank": 11,
+          "points": 2
+        },
+        {
+          "teamId": "vision",
+          "rank": 12,
+          "points": 1
+        },
+        {
+          "teamId": "ffe",
+          "rank": 13,
+          "points": 1
+        },
+        {
+          "teamId": "wgr",
+          "rank": 14,
+          "points": 1
+        },
+        {
+          "teamId": "nrg",
+          "rank": 15,
+          "points": 1
+        },
+        {
+          "teamId": "dinos",
+          "rank": 16,
+          "points": 1
+        },
+        {
+          "teamId": "nice-guys",
+          "rank": 17,
+          "points": 1
+        },
+        {
+          "teamId": "reject",
+          "rank": 18,
+          "points": 1
+        },
+        {
+          "teamId": "parivision",
           "rank": 19,
           "points": 0
         },
         {
-          "teamId": "gaimin",
+          "teamId": "rrq",
           "rank": 20,
           "points": 0
         }
@@ -754,31 +754,31 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "live",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 6,
       "currentGame": 1,
@@ -787,31 +787,31 @@
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T21:43:05.215Z",
+      "updatedAt": "2026-10-30T21:47:52.065Z",
       "completedGames": 0,
       "totalGames": 18
     }
