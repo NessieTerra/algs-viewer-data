@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-30T22:13:05.323Z",
+  "updatedAt": "2026-10-30T22:16:05.298Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -16,7 +16,7 @@
         {
           "teamId": "dinos",
           "rank": 1,
-          "points": 135
+          "points": 136
         },
         {
           "teamId": "falcons",
@@ -39,17 +39,17 @@
           "points": 94
         },
         {
-          "teamId": "aurora",
+          "teamId": "crazy-thieves",
           "rank": 6,
-          "points": 91
+          "points": 94
         },
         {
-          "teamId": "geekay",
+          "teamId": "aurora",
           "rank": 7,
           "points": 91
         },
         {
-          "teamId": "crazy-thieves",
+          "teamId": "geekay",
           "rank": 8,
           "points": 91
         },
@@ -69,14 +69,14 @@
           "points": 90
         },
         {
-          "teamId": "kinotrope-club",
+          "teamId": "vision",
           "rank": 12,
-          "points": 86
+          "points": 89
         },
         {
-          "teamId": "vision",
+          "teamId": "kinotrope-club",
           "rank": 13,
-          "points": 86
+          "points": 87
         },
         {
           "teamId": "zeta",
@@ -141,7 +141,7 @@
         {
           "teamId": "gaimin",
           "rank": 26,
-          "points": 61
+          "points": 62
         },
         {
           "teamId": "dcg",
@@ -169,19 +169,19 @@
           "points": 55
         },
         {
-          "teamId": "kinotrope-gaming",
+          "teamId": "titan",
           "rank": 32,
-          "points": 53
+          "points": 55
         },
         {
-          "teamId": "noez",
+          "teamId": "kinotrope-gaming",
           "rank": 33,
           "points": 53
         },
         {
-          "teamId": "titan",
+          "teamId": "noez",
           "rank": 34,
-          "points": 52
+          "points": 53
         },
         {
           "teamId": "riddle",
@@ -651,7 +651,7 @@
         {
           "teamId": "crazy-thieves",
           "rank": 1,
-          "points": 19
+          "points": 22
         },
         {
           "teamId": "falcons",
@@ -674,29 +674,29 @@
           "points": 8
         },
         {
-          "teamId": "ag",
+          "teamId": "titan",
           "rank": 6,
-          "points": 7
+          "points": 8
         },
         {
           "teamId": "dinos",
           "rank": 7,
-          "points": 6
+          "points": 7
+        },
+        {
+          "teamId": "ag",
+          "rank": 8,
+          "points": 7
         },
         {
           "teamId": "eclipse",
-          "rank": 8,
-          "points": 5
-        },
-        {
-          "teamId": "titan",
           "rank": 9,
           "points": 5
         },
         {
           "teamId": "kinotrope-club",
           "rank": 10,
-          "points": 4
+          "points": 5
         },
         {
           "teamId": "7ven",
@@ -709,34 +709,34 @@
           "points": 4
         },
         {
-          "teamId": "ffe",
+          "teamId": "gaimin",
           "rank": 13,
-          "points": 3
+          "points": 4
         },
         {
-          "teamId": "gaimin",
+          "teamId": "vision",
           "rank": 14,
+          "points": 4
+        },
+        {
+          "teamId": "ffe",
+          "rank": 15,
           "points": 3
         },
         {
           "teamId": "wgr",
-          "rank": 15,
-          "points": 2
-        },
-        {
-          "teamId": "wolves",
           "rank": 16,
           "points": 2
         },
         {
-          "teamId": "vexx",
+          "teamId": "wolves",
           "rank": 17,
           "points": 2
         },
         {
-          "teamId": "vision",
+          "teamId": "vexx",
           "rank": 18,
-          "points": 1
+          "points": 2
         },
         {
           "teamId": "parivision",
@@ -754,31 +754,31 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "live",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 1,
       "totalGames": 6,
       "currentGame": 2,
@@ -787,31 +787,31 @@
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-30T22:13:05.323Z",
+      "updatedAt": "2026-10-30T22:16:05.298Z",
       "completedGames": 0,
       "totalGames": 18
     }
