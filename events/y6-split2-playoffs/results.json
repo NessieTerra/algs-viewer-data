@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T17:37:08.232Z",
+  "updatedAt": "2026-10-31T17:40:09.885Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -865,50 +865,50 @@
         {
           "teamId": "wolves",
           "rank": 1,
-          "points": 12
-        },
-        {
-          "teamId": "pxx",
-          "rank": 2,
-          "points": 10
+          "points": 24
         },
         {
           "teamId": "parivision",
+          "rank": 2,
+          "points": 15
+        },
+        {
+          "teamId": "war",
           "rank": 3,
-          "points": 9
+          "points": 14
+        },
+        {
+          "teamId": "pxx",
+          "rank": 4,
+          "points": 10
         },
         {
           "teamId": "nice-guys",
-          "rank": 4,
+          "rank": 5,
           "points": 8
         },
         {
-          "teamId": "ltx",
-          "rank": 5,
-          "points": 7
-        },
-        {
-          "teamId": "eclipse",
+          "teamId": "sen",
           "rank": 6,
           "points": 7
         },
         {
-          "teamId": "ag",
+          "teamId": "ltx",
           "rank": 7,
           "points": 7
         },
         {
-          "teamId": "war",
+          "teamId": "eclipse",
           "rank": 8,
           "points": 7
         },
         {
-          "teamId": "riddle",
+          "teamId": "ag",
           "rank": 9,
-          "points": 4
+          "points": 7
         },
         {
-          "teamId": "sen",
+          "teamId": "riddle",
           "rank": 10,
           "points": 4
         },
@@ -968,64 +968,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
-      "status": "live",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
-      "completedGames": 0,
-      "totalGames": 6,
-      "currentGame": 1,
-      "currentMap": "E-District",
-      "currentMapZh": "电力区"
+      "status": "between_games",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
+      "completedGames": 1,
+      "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T17:37:08.232Z",
+      "updatedAt": "2026-10-31T17:40:09.885Z",
       "completedGames": 0,
       "totalGames": 18
     }
