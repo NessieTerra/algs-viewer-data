@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T21:34:07.594Z",
+  "updatedAt": "2026-10-31T21:37:07.516Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1050,103 +1050,103 @@
       "title": "胜者组",
       "standings": [
         {
-          "teamId": "rrq",
+          "teamId": "reject",
           "rank": 1,
-          "points": 0
+          "points": 1
+        },
+        {
+          "teamId": "sr",
+          "rank": 2,
+          "points": 1
+        },
+        {
+          "teamId": "liquid",
+          "rank": 3,
+          "points": 1
+        },
+        {
+          "teamId": "kinotrope-club",
+          "rank": 4,
+          "points": 1
         },
         {
           "teamId": "nip",
-          "rank": 1,
-          "points": 0
+          "rank": 5,
+          "points": 1
         },
         {
-          "teamId": "ffe",
-          "rank": 1,
+          "teamId": "world-wide",
+          "rank": 6,
           "points": 0
         },
         {
           "teamId": "dinos",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "vision",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "liquid",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "geekay",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "sr",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "unlimit",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "alliance",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "aurora",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "world-wide",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "reject",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "zeta",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "crazy-thieves",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "forged-wolves",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "wgr",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "falcons",
-          "rank": 1,
-          "points": 0
-        },
-        {
-          "teamId": "kinotrope-club",
-          "rank": 1,
+          "rank": 7,
           "points": 0
         },
         {
           "teamId": "geng-citadel",
-          "rank": 1,
+          "rank": 8,
+          "points": 0
+        },
+        {
+          "teamId": "falcons",
+          "rank": 9,
+          "points": 0
+        },
+        {
+          "teamId": "crazy-thieves",
+          "rank": 10,
+          "points": 0
+        },
+        {
+          "teamId": "aurora",
+          "rank": 11,
+          "points": 0
+        },
+        {
+          "teamId": "vision",
+          "rank": 12,
+          "points": 0
+        },
+        {
+          "teamId": "alliance",
+          "rank": 13,
+          "points": 0
+        },
+        {
+          "teamId": "unlimit",
+          "rank": 14,
+          "points": 0
+        },
+        {
+          "teamId": "rrq",
+          "rank": 15,
+          "points": 0
+        },
+        {
+          "teamId": "wgr",
+          "rank": 16,
+          "points": 0
+        },
+        {
+          "teamId": "zeta",
+          "rank": 17,
+          "points": 0
+        },
+        {
+          "teamId": "forged-wolves",
+          "rank": 18,
+          "points": 0
+        },
+        {
+          "teamId": "geekay",
+          "rank": 19,
+          "points": 0
+        },
+        {
+          "teamId": "ffe",
+          "rank": 20,
           "points": 0
         }
       ]
@@ -1155,49 +1155,49 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "live",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 0,
       "totalGames": 6,
       "currentGame": 1,
@@ -1206,13 +1206,13 @@
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T21:34:07.594Z",
+      "updatedAt": "2026-10-31T21:37:07.516Z",
       "completedGames": 0,
       "totalGames": 18
     }
