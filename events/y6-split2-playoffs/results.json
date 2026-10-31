@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T20:18:23.176Z",
+  "updatedAt": "2026-10-31T20:45:24.997Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -865,102 +865,182 @@
         {
           "teamId": "vexx",
           "rank": 1,
-          "points": 74
+          "points": 74,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "gaimin",
           "rank": 2,
-          "points": 71
+          "points": 71,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "war",
           "rank": 3,
-          "points": 58
+          "points": 58,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "sen",
           "rank": 4,
-          "points": 44
+          "points": 44,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "nice-guys",
           "rank": 5,
-          "points": 43
+          "points": 43,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "ag",
           "rank": 6,
-          "points": 42
+          "points": 42,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "wolves",
           "rank": 7,
-          "points": 40
+          "points": 40,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "noez",
           "rank": 8,
-          "points": 40
+          "points": 40,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "nrg",
           "rank": 9,
-          "points": 37
+          "points": 37,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "parivision",
           "rank": 10,
-          "points": 35
+          "points": 35,
+          "outcome": {
+            "status": "advanced",
+            "label": "晋级败者组第二轮"
+          }
         },
         {
           "teamId": "riddle",
           "rank": 11,
-          "points": 33
+          "points": 33,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "7ven",
           "rank": 12,
-          "points": 23
+          "points": 23,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "ef36",
           "rank": 13,
-          "points": 23
+          "points": 23,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "ltx",
           "rank": 14,
-          "points": 23
+          "points": 23,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "eclipse",
           "rank": 15,
-          "points": 21
+          "points": 21,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "vkg",
           "rank": 16,
-          "points": 20
+          "points": 20,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "pxx",
           "rank": 17,
-          "points": 17
+          "points": 17,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "kinotrope-gaming",
           "rank": 18,
-          "points": 16
+          "points": 16,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "titan",
           "rank": 19,
-          "points": 15
+          "points": 15,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         },
         {
           "teamId": "dcg",
           "rank": 20,
-          "points": 14
+          "points": 14,
+          "outcome": {
+            "status": "eliminated",
+            "label": "淘汰"
+          }
         }
       ]
     }
@@ -968,61 +1048,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:18:23.176Z",
+      "updatedAt": "2026-10-31T20:45:24.997Z",
       "completedGames": 0,
       "totalGames": 18
     }
