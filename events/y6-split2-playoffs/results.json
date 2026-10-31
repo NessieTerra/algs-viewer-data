@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T21:49:06.639Z",
+  "updatedAt": "2026-10-31T21:52:06.670Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1050,52 +1050,52 @@
       "title": "胜者组",
       "standings": [
         {
-          "teamId": "crazy-thieves",
+          "teamId": "forged-wolves",
           "rank": 1,
-          "points": 9
+          "points": 20
+        },
+        {
+          "teamId": "crazy-thieves",
+          "rank": 2,
+          "points": 15
         },
         {
           "teamId": "falcons",
-          "rank": 2,
-          "points": 9
+          "rank": 3,
+          "points": 13
+        },
+        {
+          "teamId": "aurora",
+          "rank": 4,
+          "points": 10
         },
         {
           "teamId": "liquid",
-          "rank": 3,
+          "rank": 5,
           "points": 8
         },
         {
           "teamId": "geekay",
-          "rank": 4,
+          "rank": 6,
           "points": 8
         },
         {
           "teamId": "kinotrope-club",
-          "rank": 5,
-          "points": 7
-        },
-        {
-          "teamId": "aurora",
-          "rank": 6,
-          "points": 7
-        },
-        {
-          "teamId": "forged-wolves",
           "rank": 7,
           "points": 7
         },
         {
-          "teamId": "rrq",
+          "teamId": "sr",
           "rank": 8,
           "points": 5
         },
         {
-          "teamId": "alliance",
+          "teamId": "rrq",
           "rank": 9,
           "points": 5
         },
         {
-          "teamId": "sr",
+          "teamId": "alliance",
           "rank": 10,
           "points": 5
         },
@@ -1155,64 +1155,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
-      "status": "live",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
-      "completedGames": 0,
-      "totalGames": 6,
-      "currentGame": 1,
-      "currentMap": "Storm Point",
-      "currentMapZh": "风暴点"
+      "status": "between_games",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
+      "completedGames": 1,
+      "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T21:49:06.639Z",
+      "updatedAt": "2026-10-31T21:52:06.670Z",
       "completedGames": 0,
       "totalGames": 18
     }
