@@ -308,7 +308,18 @@
       "stage": "淘汰赛",
       "title": "淘汰轮 2",
       "groups": [],
-      "teamIds": [],
+      "teamIds": [
+        "ag",
+        "gaimin",
+        "nice-guys",
+        "noez",
+        "nrg",
+        "parivision",
+        "sen",
+        "war",
+        "vexx",
+        "wolves"
+      ],
       "format": "6局系列赛"
     },
     {
