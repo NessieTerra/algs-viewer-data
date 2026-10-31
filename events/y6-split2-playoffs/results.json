@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T20:13:06.783Z",
+  "updatedAt": "2026-10-31T20:18:23.176Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -968,64 +968,95 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T20:13:06.783Z",
+      "updatedAt": "2026-10-31T20:18:23.176Z",
       "completedGames": 0,
       "totalGames": 18
     }
   },
-  "teamStatus": {}
+  "teamStatus": {
+    "riddle": {
+      "status": "eliminated"
+    },
+    "7ven": {
+      "status": "eliminated"
+    },
+    "ef36": {
+      "status": "eliminated"
+    },
+    "ltx": {
+      "status": "eliminated"
+    },
+    "eclipse": {
+      "status": "eliminated"
+    },
+    "vkg": {
+      "status": "eliminated"
+    },
+    "pxx": {
+      "status": "eliminated"
+    },
+    "kinotrope-gaming": {
+      "status": "eliminated"
+    },
+    "titan": {
+      "status": "eliminated"
+    },
+    "dcg": {
+      "status": "eliminated"
+    }
+  }
 }
