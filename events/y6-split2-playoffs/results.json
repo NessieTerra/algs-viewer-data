@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-10-31T00:13:05.676Z",
+  "updatedAt": "2026-10-31T00:16:05.671Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -29,14 +29,14 @@
           "points": 135
         },
         {
-          "teamId": "wgr",
+          "teamId": "falcons",
           "rank": 4,
-          "points": 129
+          "points": 132
         },
         {
-          "teamId": "falcons",
+          "teamId": "wgr",
           "rank": 5,
-          "points": 125
+          "points": 129
         },
         {
           "teamId": "reject",
@@ -119,14 +119,14 @@
           "points": 79
         },
         {
-          "teamId": "vexx",
+          "teamId": "nice-guys",
           "rank": 22,
-          "points": 76
+          "points": 78
         },
         {
-          "teamId": "nice-guys",
+          "teamId": "vexx",
           "rank": 23,
-          "points": 74
+          "points": 76
         },
         {
           "teamId": "nip",
@@ -651,17 +651,17 @@
         {
           "teamId": "crazy-thieves",
           "rank": 1,
-          "points": 63
-        },
-        {
-          "teamId": "wgr",
-          "rank": 2,
-          "points": 47
+          "points": 64
         },
         {
           "teamId": "falcons",
+          "rank": 2,
+          "points": 53
+        },
+        {
+          "teamId": "wgr",
           "rank": 3,
-          "points": 46
+          "points": 47
         },
         {
           "teamId": "reject",
@@ -679,14 +679,14 @@
           "points": 44
         },
         {
-          "teamId": "vision",
+          "teamId": "nice-guys",
           "rank": 7,
-          "points": 30
+          "points": 31
         },
         {
-          "teamId": "nice-guys",
+          "teamId": "vision",
           "rank": 8,
-          "points": 27
+          "points": 30
         },
         {
           "teamId": "kinotrope-club",
@@ -754,64 +754,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
-      "status": "live",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
-      "completedGames": 4,
-      "totalGames": 6,
-      "currentGame": 5,
-      "currentMap": "Storm Point",
-      "currentMapZh": "风暴点"
+      "status": "between_games",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
+      "completedGames": 5,
+      "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "wb": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 0,
       "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-10-31T00:13:05.676Z",
+      "updatedAt": "2026-10-31T00:16:05.671Z",
       "completedGames": 0,
       "totalGames": 18
     }
