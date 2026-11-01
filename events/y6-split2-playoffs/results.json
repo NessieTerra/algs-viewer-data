@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-01T03:01:10.524Z",
+  "updatedAt": "2026-11-01T03:04:10.055Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1247,19 +1247,19 @@
           "points": 33
         },
         {
-          "teamId": "geekay",
+          "teamId": "parivision",
           "rank": 3,
+          "points": 32
+        },
+        {
+          "teamId": "geekay",
+          "rank": 4,
           "points": 31
         },
         {
           "teamId": "gaimin",
-          "rank": 4,
-          "points": 29
-        },
-        {
-          "teamId": "parivision",
           "rank": 5,
-          "points": 27
+          "points": 29
         },
         {
           "teamId": "ffe",
@@ -1267,29 +1267,29 @@
           "points": 22
         },
         {
-          "teamId": "reject",
+          "teamId": "alliance",
           "rank": 7,
+          "points": 21
+        },
+        {
+          "teamId": "reject",
+          "rank": 8,
           "points": 18
         },
         {
           "teamId": "geng-citadel",
-          "rank": 8,
+          "rank": 9,
           "points": 17
         },
         {
           "teamId": "ag",
-          "rank": 9,
-          "points": 16
-        },
-        {
-          "teamId": "unlimit",
           "rank": 10,
           "points": 16
         },
         {
-          "teamId": "alliance",
+          "teamId": "unlimit",
           "rank": 11,
-          "points": 15
+          "points": 16
         },
         {
           "teamId": "nrg",
@@ -1342,64 +1342,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
-      "status": "live",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
-      "completedGames": 2,
-      "totalGames": 6,
-      "currentGame": 3,
-      "currentMap": "Storm Point",
-      "currentMapZh": "风暴点"
+      "status": "between_games",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
+      "completedGames": 3,
+      "totalGames": 6
     },
     "finals": {
       "status": "scheduled",
-      "updatedAt": "2026-11-01T03:01:10.524Z",
+      "updatedAt": "2026-11-01T03:04:10.055Z",
       "completedGames": 0,
       "totalGames": 18
     }
