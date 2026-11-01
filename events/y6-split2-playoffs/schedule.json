@@ -343,16 +343,26 @@
       "title": "总决赛（Match Point 50）",
       "groups": [],
       "teamIds": [
+        "ag",
+        "alliance",
         "aurora",
         "crazy-thieves",
         "forged-wolves",
+        "gaimin",
+        "geekay",
         "kinotrope-club",
         "nip",
+        "parivision",
+        "reject",
+        "sen",
         "sr",
         "falcons",
         "liquid",
+        "rrq",
         "vision",
-        "wgr"
+        "war",
+        "wgr",
+        "wolves"
       ],
       "format": "Match Point 50（赛点制）"
     }
