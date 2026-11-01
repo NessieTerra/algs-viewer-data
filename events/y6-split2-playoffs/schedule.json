@@ -310,15 +310,25 @@
       "groups": [],
       "teamIds": [
         "ag",
+        "alliance",
+        "dinos",
+        "ffe",
         "gaimin",
+        "geekay",
+        "geng-citadel",
         "nice-guys",
         "noez",
         "nrg",
         "parivision",
+        "reject",
         "sen",
+        "rrq",
         "war",
+        "unlimit",
         "vexx",
-        "wolves"
+        "wolves",
+        "world-wide",
+        "zeta"
       ],
       "format": "6局系列赛"
     },
@@ -332,7 +342,18 @@
       "stage": "总决赛",
       "title": "总决赛（Match Point 50）",
       "groups": [],
-      "teamIds": [],
+      "teamIds": [
+        "aurora",
+        "crazy-thieves",
+        "forged-wolves",
+        "kinotrope-club",
+        "nip",
+        "sr",
+        "falcons",
+        "liquid",
+        "vision",
+        "wgr"
+      ],
       "format": "Match Point 50（赛点制）"
     }
   ]
