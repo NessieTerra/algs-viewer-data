@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T01:34:18.609Z",
+  "updatedAt": "2026-11-02T01:40:17.713Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1436,7 +1436,7 @@
         {
           "teamId": "alliance",
           "rank": 3,
-          "points": 37
+          "points": 40
         },
         {
           "teamId": "wolves",
@@ -1533,61 +1533,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "live",
-      "updatedAt": "2026-11-02T01:34:18.609Z",
+      "updatedAt": "2026-11-02T01:40:17.713Z",
       "completedGames": 4,
       "totalGames": 18,
       "currentGame": 5,
