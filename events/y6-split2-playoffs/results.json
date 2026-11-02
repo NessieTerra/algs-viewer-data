@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T02:46:17.208Z",
+  "updatedAt": "2026-11-02T02:49:16.651Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1426,12 +1426,12 @@
         {
           "teamId": "vision",
           "rank": 1,
-          "points": 62
+          "points": 71
         },
         {
           "teamId": "forged-wolves",
           "rank": 2,
-          "points": 62
+          "points": 66
         },
         {
           "teamId": "alliance",
@@ -1444,19 +1444,19 @@
           "points": 55
         },
         {
-          "teamId": "nip",
+          "teamId": "liquid",
           "rank": 5,
-          "points": 50
+          "points": 52
+        },
+        {
+          "teamId": "nip",
+          "rank": 6,
+          "points": 51
         },
         {
           "teamId": "war",
-          "rank": 6,
-          "points": 46
-        },
-        {
-          "teamId": "liquid",
           "rank": 7,
-          "points": 45
+          "points": 46
         },
         {
           "teamId": "wolves",
@@ -1476,7 +1476,7 @@
         {
           "teamId": "sen",
           "rank": 11,
-          "points": 29
+          "points": 30
         },
         {
           "teamId": "parivision",
@@ -1499,29 +1499,29 @@
           "points": 24
         },
         {
-          "teamId": "reject",
+          "teamId": "ag",
           "rank": 16,
-          "points": 22
+          "points": 24
         },
         {
           "teamId": "rrq",
           "rank": 17,
+          "points": 24
+        },
+        {
+          "teamId": "falcons",
+          "rank": 18,
+          "points": 22
+        },
+        {
+          "teamId": "reject",
+          "rank": 19,
           "points": 22
         },
         {
           "teamId": "geekay",
-          "rank": 18,
-          "points": 21
-        },
-        {
-          "teamId": "falcons",
-          "rank": 19,
-          "points": 21
-        },
-        {
-          "teamId": "ag",
           "rank": 20,
-          "points": 19
+          "points": 21
         }
       ],
       "matchPoint": {
@@ -1538,61 +1538,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "live",
-      "updatedAt": "2026-11-02T02:46:17.208Z",
+      "updatedAt": "2026-11-02T02:49:16.651Z",
       "completedGames": 6,
       "totalGames": 18,
       "currentGame": 7,
