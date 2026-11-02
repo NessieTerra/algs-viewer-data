@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T02:13:17.719Z",
+  "updatedAt": "2026-11-02T02:16:18.265Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1431,17 +1431,17 @@
         {
           "teamId": "forged-wolves",
           "rank": 2,
-          "points": 55
+          "points": 56
         },
         {
           "teamId": "wgr",
           "rank": 3,
-          "points": 52
+          "points": 53
         },
         {
           "teamId": "nip",
           "rank": 4,
-          "points": 43
+          "points": 44
         },
         {
           "teamId": "wolves",
@@ -1449,54 +1449,54 @@
           "points": 39
         },
         {
-          "teamId": "aurora",
+          "teamId": "liquid",
           "rank": 6,
-          "points": 37
+          "points": 39
         },
         {
-          "teamId": "liquid",
+          "teamId": "aurora",
           "rank": 7,
           "points": 37
         },
         {
           "teamId": "vision",
           "rank": 8,
-          "points": 31
+          "points": 33
         },
         {
           "teamId": "war",
           "rank": 9,
-          "points": 31
+          "points": 33
         },
         {
           "teamId": "gaimin",
           "rank": 10,
-          "points": 31
+          "points": 32
         },
         {
           "teamId": "sen",
           "rank": 11,
-          "points": 23
+          "points": 27
         },
         {
-          "teamId": "crazy-thieves",
+          "teamId": "sr",
           "rank": 12,
           "points": 23
         },
         {
-          "teamId": "sr",
+          "teamId": "crazy-thieves",
           "rank": 13,
-          "points": 21
+          "points": 23
         },
         {
           "teamId": "parivision",
           "rank": 14,
-          "points": 19
+          "points": 20
         },
         {
           "teamId": "falcons",
           "rank": 15,
-          "points": 17
+          "points": 19
         },
         {
           "teamId": "ag",
@@ -1506,22 +1506,22 @@
         {
           "teamId": "reject",
           "rank": 17,
-          "points": 13
+          "points": 16
         },
         {
           "teamId": "rrq",
           "rank": 18,
-          "points": 12
+          "points": 15
         },
         {
           "teamId": "kinotrope-club",
           "rank": 19,
-          "points": 12
+          "points": 13
         },
         {
           "teamId": "geekay",
           "rank": 20,
-          "points": 6
+          "points": 8
         }
       ],
       "matchPoint": {
@@ -1537,61 +1537,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "live",
-      "updatedAt": "2026-11-02T02:13:17.719Z",
+      "updatedAt": "2026-11-02T02:16:18.265Z",
       "completedGames": 5,
       "totalGames": 18,
       "currentGame": 6,
