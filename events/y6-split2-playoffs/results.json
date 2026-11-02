@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T01:46:19.300Z",
+  "updatedAt": "2026-11-02T01:49:17.652Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1424,24 +1424,24 @@
       "title": "总决赛（Match Point 50）",
       "standings": [
         {
-          "teamId": "forged-wolves",
-          "rank": 1,
-          "points": 52
-        },
-        {
           "teamId": "alliance",
-          "rank": 2,
-          "points": 51
+          "rank": 1,
+          "points": 58
         },
         {
-          "teamId": "nip",
-          "rank": 3,
-          "points": 43
+          "teamId": "forged-wolves",
+          "rank": 2,
+          "points": 55
         },
         {
           "teamId": "wgr",
+          "rank": 3,
+          "points": 50
+        },
+        {
+          "teamId": "nip",
           "rank": 4,
-          "points": 38
+          "points": 43
         },
         {
           "teamId": "aurora",
@@ -1489,12 +1489,12 @@
           "points": 20
         },
         {
-          "teamId": "ag",
+          "teamId": "parivision",
           "rank": 14,
-          "points": 17
+          "points": 18
         },
         {
-          "teamId": "parivision",
+          "teamId": "ag",
           "rank": 15,
           "points": 17
         },
@@ -1526,73 +1526,74 @@
       ],
       "matchPoint": {
         "threshold": 50,
-        "eligibleTeamIds": []
+        "eligibleTeamIds": [
+          "alliance",
+          "forged-wolves",
+          "wgr"
+        ]
       }
     }
   ],
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
-      "status": "live",
-      "updatedAt": "2026-11-02T01:46:19.300Z",
-      "completedGames": 4,
-      "totalGames": 18,
-      "currentGame": 5,
-      "currentMap": "World's Edge",
-      "currentMapZh": "世界尽头"
+      "status": "between_games",
+      "updatedAt": "2026-11-02T01:49:17.652Z",
+      "completedGames": 5,
+      "totalGames": 18
     }
   },
   "teamStatus": {
