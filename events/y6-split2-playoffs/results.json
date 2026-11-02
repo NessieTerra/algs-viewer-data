@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T03:49:17.087Z",
+  "updatedAt": "2026-11-02T04:23:47.272Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1540,61 +1540,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:49:17.087Z",
+      "updatedAt": "2026-11-02T04:23:47.272Z",
       "completedGames": 9,
       "totalGames": 9
     }
@@ -1661,63 +1661,83 @@
       "status": "eliminated"
     },
     "liquid": {
+      "status": "ranked",
       "finalRank": 1
     },
     "vision": {
+      "status": "ranked",
       "finalRank": 2
     },
     "forged-wolves": {
+      "status": "ranked",
       "finalRank": 3
     },
     "aurora": {
+      "status": "ranked",
       "finalRank": 4
     },
     "alliance": {
+      "status": "ranked",
       "finalRank": 5
     },
     "wgr": {
+      "status": "ranked",
       "finalRank": 6
     },
     "wolves": {
+      "status": "ranked",
       "finalRank": 7
     },
     "nip": {
+      "status": "ranked",
       "finalRank": 8
     },
     "crazy-thieves": {
+      "status": "ranked",
       "finalRank": 9
     },
     "war": {
+      "status": "ranked",
       "finalRank": 10
     },
     "rrq": {
+      "status": "ranked",
       "finalRank": 11
     },
     "sen": {
+      "status": "ranked",
       "finalRank": 12
     },
     "gaimin": {
+      "status": "ranked",
       "finalRank": 13
     },
     "geekay": {
+      "status": "ranked",
       "finalRank": 14
     },
     "sr": {
+      "status": "ranked",
       "finalRank": 15
     },
     "falcons": {
+      "status": "ranked",
       "finalRank": 16
     },
     "ag": {
+      "status": "ranked",
       "finalRank": 17
     },
     "parivision": {
+      "status": "ranked",
       "finalRank": 18
     },
     "kinotrope-club": {
+      "status": "ranked",
       "finalRank": 19
     },
     "reject": {
+      "status": "ranked",
       "finalRank": 20
     }
   }
