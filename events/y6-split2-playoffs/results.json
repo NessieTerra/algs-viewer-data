@@ -1,11 +1,12 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T04:23:47.272Z",
+  "updatedAt": "2026-11-02T14:22:23.898Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
     "license": ""
   },
+  "eventCompletedAt": "2026-11-02T03:46:45.551Z",
   "series": [
     {
       "id": "group-stage",
@@ -1540,61 +1541,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "finished",
-      "updatedAt": "2026-11-02T04:23:47.272Z",
+      "updatedAt": "2026-11-02T14:22:23.898Z",
       "completedGames": 9,
       "totalGames": 9
     }
