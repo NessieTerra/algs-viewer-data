@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T14:22:23.898Z",
+  "updatedAt": "2026-11-02T14:43:15.538Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -17,202 +17,362 @@
         {
           "teamId": "dinos",
           "rank": 1,
-          "points": 181
+          "points": 181,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "aurora",
           "rank": 2,
-          "points": 166
+          "points": 166,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "world-wide",
           "rank": 3,
-          "points": 155
+          "points": 155,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "liquid",
           "rank": 4,
-          "points": 149
+          "points": 149,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "unlimit",
           "rank": 5,
-          "points": 142
+          "points": 142,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "crazy-thieves",
           "rank": 6,
-          "points": 140
+          "points": 140,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "falcons",
           "rank": 7,
-          "points": 137
+          "points": 137,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "rrq",
           "rank": 8,
-          "points": 137
+          "points": 137,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "zeta",
           "rank": 9,
-          "points": 136
+          "points": 136,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "wgr",
           "rank": 10,
-          "points": 130
+          "points": 130,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "reject",
           "rank": 11,
-          "points": 130
+          "points": 130,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "alliance",
           "rank": 12,
-          "points": 128
+          "points": 128,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "vision",
           "rank": 13,
-          "points": 121
+          "points": 121,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "geekay",
           "rank": 14,
-          "points": 120
+          "points": 120,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "kinotrope-club",
           "rank": 15,
-          "points": 114
+          "points": 114,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "nip",
           "rank": 16,
-          "points": 112
+          "points": 112,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "forged-wolves",
           "rank": 17,
-          "points": 108
+          "points": 108,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "sr",
           "rank": 18,
-          "points": 104
+          "points": 104,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "geng-citadel",
           "rank": 19,
-          "points": 103
+          "points": 103,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "ffe",
           "rank": 20,
-          "points": 103
+          "points": 103,
+          "outcome": {
+            "status": "advanced",
+            "label": "进入胜者组"
+          }
         },
         {
           "teamId": "dcg",
           "rank": 21,
-          "points": 102
+          "points": 102,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "vexx",
           "rank": 22,
-          "points": 91
+          "points": 91,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "eclipse",
           "rank": 23,
-          "points": 90
+          "points": 90,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "titan",
           "rank": 24,
-          "points": 86
+          "points": 86,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "sen",
           "rank": 25,
-          "points": 86
+          "points": 86,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "nrg",
           "rank": 26,
-          "points": 85
+          "points": 85,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "ag",
           "rank": 27,
-          "points": 82
+          "points": 82,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "gaimin",
           "rank": 28,
-          "points": 82
+          "points": 82,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "ef36",
           "rank": 29,
-          "points": 79
+          "points": 79,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "nice-guys",
           "rank": 30,
-          "points": 78
+          "points": 78,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "vkg",
           "rank": 31,
-          "points": 75
+          "points": 75,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "war",
           "rank": 32,
-          "points": 72
+          "points": 72,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "kinotrope-gaming",
           "rank": 33,
-          "points": 71
+          "points": 71,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "wolves",
           "rank": 34,
-          "points": 71
+          "points": 71,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "riddle",
           "rank": 35,
-          "points": 65
+          "points": 65,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "7ven",
           "rank": 36,
-          "points": 58
+          "points": 58,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "noez",
           "rank": 37,
-          "points": 58
+          "points": 58,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "ltx",
           "rank": 38,
-          "points": 54
+          "points": 54,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "parivision",
           "rank": 39,
-          "points": 52
+          "points": 52,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         },
         {
           "teamId": "pxx",
           "rank": 40,
-          "points": 40
+          "points": 40,
+          "outcome": {
+            "status": "lower",
+            "label": "进入败者组第一轮"
+          }
         }
       ]
     },
@@ -1541,61 +1701,61 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
       "status": "finished",
-      "updatedAt": "2026-11-02T14:22:23.898Z",
+      "updatedAt": "2026-11-02T14:43:15.538Z",
       "completedGames": 9,
       "totalGames": 9
     }
