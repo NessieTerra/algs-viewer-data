@@ -1,6 +1,6 @@
 {
   "eventId": "y6-split2-playoffs",
-  "updatedAt": "2026-11-02T03:19:20.776Z",
+  "updatedAt": "2026-11-02T03:22:17.400Z",
   "source": {
     "name": "ALGS Official (algs.ea.com)",
     "url": "https://algs.ea.com/en/year-6/split-2-playoffs/standings",
@@ -1436,7 +1436,7 @@
         {
           "teamId": "liquid",
           "rank": 3,
-          "points": 70
+          "points": 73
         },
         {
           "teamId": "alliance",
@@ -1444,19 +1444,19 @@
           "points": 65
         },
         {
-          "teamId": "wgr",
+          "teamId": "aurora",
           "rank": 5,
+          "points": 63
+        },
+        {
+          "teamId": "wgr",
+          "rank": 6,
           "points": 56
         },
         {
           "teamId": "nip",
-          "rank": 6,
-          "points": 52
-        },
-        {
-          "teamId": "aurora",
           "rank": 7,
-          "points": 50
+          "points": 52
         },
         {
           "teamId": "wolves",
@@ -1464,14 +1464,14 @@
           "points": 48
         },
         {
-          "teamId": "war",
+          "teamId": "crazy-thieves",
           "rank": 9,
-          "points": 46
+          "points": 47
         },
         {
-          "teamId": "crazy-thieves",
+          "teamId": "war",
           "rank": 10,
-          "points": 42
+          "points": 46
         },
         {
           "teamId": "gaimin",
@@ -1484,22 +1484,22 @@
           "points": 37
         },
         {
-          "teamId": "rrq",
+          "teamId": "ag",
           "rank": 13,
           "points": 31
         },
         {
-          "teamId": "sr",
+          "teamId": "rrq",
           "rank": 14,
+          "points": 31
+        },
+        {
+          "teamId": "sr",
+          "rank": 15,
           "points": 29
         },
         {
           "teamId": "geekay",
-          "rank": 15,
-          "points": 28
-        },
-        {
-          "teamId": "ag",
           "rank": 16,
           "points": 28
         },
@@ -1531,6 +1531,7 @@
           "forged-wolves",
           "liquid",
           "alliance",
+          "aurora",
           "wgr",
           "nip"
         ]
@@ -1540,66 +1541,63 @@
   "matchStates": {
     "gs-ab-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-cd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bd-d1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ac-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-bc-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "gs-ad-d2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r1": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "wb": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "lb-r2": {
       "status": "finished",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
       "completedGames": 6,
       "totalGames": 6
     },
     "finals": {
-      "status": "live",
-      "updatedAt": "2026-11-02T03:19:20.776Z",
-      "completedGames": 7,
-      "totalGames": 18,
-      "currentGame": 8,
-      "currentMap": "Storm Point",
-      "currentMapZh": "风暴点"
+      "status": "between_games",
+      "updatedAt": "2026-11-02T03:22:17.400Z",
+      "completedGames": 8,
+      "totalGames": 18
     }
   },
   "teamStatus": {
