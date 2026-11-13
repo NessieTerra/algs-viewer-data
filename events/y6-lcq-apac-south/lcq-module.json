@@ -1,11 +1,56 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月13日21:41",
+  "updatedAt": "11月13日22:17",
   "source": "ALGS Official (algs.ea.com via algstools)",
+  "uiExample": false,
   "state": "scheduled",
   "startsAt": "2026-11-20T09:00:00.000Z",
   "startLabel": "11月20日（周五）17:00",
+  "eventDateLabel": "11月20日—22日",
+  "eventDateRange": "2026年11月20日—11月22日",
+  "phase": "in_progress",
   "currentRound": "",
+  "nextRound": null,
+  "scheduleDays": [
+    {
+      "date": "2026-11-20",
+      "label": "11月20日 · 周五",
+      "rounds": [
+        {
+          "time": "17:00",
+          "title": "胜者组第一轮（两组）",
+          "status": "upcoming"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "label": "11月21日 · 周六",
+      "rounds": [
+        {
+          "time": "12:00",
+          "title": "胜者组第二轮＋败者组第一轮",
+          "status": "upcoming"
+        },
+        {
+          "time": "17:00",
+          "title": "败者组第二轮",
+          "status": "upcoming"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "label": "11月22日 · 周日",
+      "rounds": [
+        {
+          "time": "12:00",
+          "title": "赛点制决赛",
+          "status": "upcoming"
+        }
+      ]
+    }
+  ],
   "latestRound": null,
   "qualifiers": [],
   "finalStandings": [],
@@ -14,55 +59,100 @@
       "name": "Black Hole",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "XX",
+        "Eastyy",
+        "BJJS_012"
+      ]
     },
     {
       "name": "SWQ",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "Bieyun",
+        "OuOKh",
+        "GuoZi"
+      ]
     },
     {
       "name": "2C1M",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "Ggod",
+        "FengchunOvO",
+        "YY"
+      ]
     },
     {
       "name": "DreamFire",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "Sid0o",
+        "3Mz",
+        "Caigou"
+      ]
     },
     {
       "name": "Orange",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "N1ng",
+        "跳跳loveJK",
+        "Jacky1"
+      ]
     },
     {
       "name": "TEC Black",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "Menino",
+        "Allmyfaul",
+        "qiuzi"
+      ]
     },
     {
       "name": "KPY",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "moxi",
+        "MarkL1ly",
+        "mtulc"
+      ]
     },
     {
       "name": "BBZ",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "suibingbing",
+        "Dokiovo",
+        "NotWinter"
+      ]
     },
     {
       "name": "Kirisame",
       "stage": "已确认参赛",
       "result": "",
-      "outcome": ""
+      "outcome": "",
+      "players": [
+        "xKenN",
+        "XoyoBda",
+        "Cumulonimbus"
+      ]
     }
   ]
 }
