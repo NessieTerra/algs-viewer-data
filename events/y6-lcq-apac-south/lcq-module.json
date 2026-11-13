@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月13日22:28",
+  "updatedAt": "11月13日23:19",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "scheduled",
@@ -8,7 +8,7 @@
   "startLabel": "11月20日（周五）17:00",
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
-  "phase": "in_progress",
+  "phase": null,
   "currentRound": "",
   "nextRound": null,
   "scheduleDays": [
