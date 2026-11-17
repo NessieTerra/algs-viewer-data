@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月15日14:36",
+  "updatedAt": "11月17日23:08",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "scheduled",
@@ -152,6 +152,17 @@
         "xKenN",
         "XoyoBda",
         "Cumulonimbus"
+      ]
+    },
+    {
+      "name": "TEC Academy",
+      "stage": "已确认参赛",
+      "result": "",
+      "outcome": "",
+      "players": [
+        "ckkongbai",
+        "xiaolin",
+        "BoLin"
       ]
     }
   ]
