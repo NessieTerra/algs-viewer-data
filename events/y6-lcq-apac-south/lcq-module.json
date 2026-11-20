@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月20日17:30",
+  "updatedAt": "11月20日17:58",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -9,7 +9,7 @@
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
   "phase": "in_progress",
-  "currentRound": "胜者组第一轮 · A组",
+  "currentRound": "胜者组第一轮（两组）",
   "nextRound": null,
   "scheduleDays": [
     {
@@ -57,8 +57,8 @@
   "chinaTeams": [
     {
       "name": "Black Hole",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 3 名 · 9 分",
       "outcome": "",
       "players": [
         "XX",
@@ -69,7 +69,7 @@
     {
       "name": "SWQ",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 18 名 · 0 分",
+      "result": "第 11 名 · 4 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -79,8 +79,8 @@
     },
     {
       "name": "2C1M",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 4 名 · 8 分",
       "outcome": "",
       "players": [
         "Ggod",
@@ -91,7 +91,7 @@
     {
       "name": "DreamFire",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 15 名 · 0 分",
+      "result": "第 3 名 · 12 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -101,8 +101,8 @@
     },
     {
       "name": "Orange",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 6 名 · 8 分",
       "outcome": "",
       "players": [
         "N1ng",
@@ -112,8 +112,8 @@
     },
     {
       "name": "TEC Black",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 18 名 · 0 分",
       "outcome": "",
       "players": [
         "Menino",
@@ -124,7 +124,7 @@
     {
       "name": "KPY",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 5 名 · 0 分",
+      "result": "第 9 名 · 5 分",
       "outcome": "",
       "players": [
         "moxi",
@@ -134,8 +134,8 @@
     },
     {
       "name": "BBZ",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 5 名 · 8 分",
       "outcome": "",
       "players": [
         "suibingbing",
@@ -145,8 +145,8 @@
     },
     {
       "name": "Kirisame",
-      "stage": "已确认参赛",
-      "result": "",
+      "stage": "胜者组第一轮 · B组",
+      "result": "第 1 名 · 24 分",
       "outcome": "",
       "players": [
         "xKenN",
@@ -157,7 +157,7 @@
     {
       "name": "TEC Academy",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 13 名 · 0 分",
+      "result": "第 1 名 · 22 分",
       "outcome": "",
       "players": [
         "ckkongbai",
