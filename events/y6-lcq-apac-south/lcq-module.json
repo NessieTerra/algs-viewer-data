@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月20日21:15",
+  "updatedAt": "11月20日21:45",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -67,7 +67,7 @@
       "name": "Black Hole",
       "stage": "胜者组第一轮 · B组",
       "result": "第 7 名 · 42 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "XX",
         "Eastyy",
@@ -78,7 +78,7 @@
       "name": "SWQ",
       "stage": "胜者组第一轮 · A组",
       "result": "第 6 名 · 50 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "Bieyun",
         "OuOKh",
@@ -89,7 +89,7 @@
       "name": "2C1M",
       "stage": "胜者组第一轮 · B组",
       "result": "第 10 名 · 31 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "Ggod",
         "FengchunOvO",
@@ -100,7 +100,7 @@
       "name": "DreamFire",
       "stage": "胜者组第一轮 · A组",
       "result": "第 5 名 · 50 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "Sid0o",
         "3Mz",
@@ -111,7 +111,7 @@
       "name": "Orange",
       "stage": "胜者组第一轮 · B组",
       "result": "第 8 名 · 39 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "N1ng",
         "跳跳loveJK",
@@ -122,7 +122,7 @@
       "name": "TEC Black",
       "stage": "胜者组第一轮 · B组",
       "result": "第 13 名 · 20 分",
-      "outcome": "",
+      "outcome": "进入败者组第一轮",
       "players": [
         "Menino",
         "Allmyfaul",
@@ -133,7 +133,7 @@
       "name": "KPY",
       "stage": "胜者组第一轮 · A组",
       "result": "第 9 名 · 30 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "moxi",
         "MarkL1ly",
@@ -144,7 +144,7 @@
       "name": "BBZ",
       "stage": "胜者组第一轮 · B组",
       "result": "第 5 名 · 45 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "suibingbing",
         "Dokiovo",
@@ -155,7 +155,7 @@
       "name": "Kirisame",
       "stage": "胜者组第一轮 · B组",
       "result": "第 1 名 · 95 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "xKenN",
         "XoyoBda",
@@ -166,7 +166,7 @@
       "name": "TEC Academy",
       "stage": "胜者组第一轮 · A组",
       "result": "第 1 名 · 79 分",
-      "outcome": "",
+      "outcome": "进入胜者组第二轮",
       "players": [
         "ckkongbai",
         "xiaolin",
