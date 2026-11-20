@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月20日18:30",
+  "updatedAt": "11月20日19:00",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -58,7 +58,7 @@
     {
       "name": "Black Hole",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 2 名 · 37 分",
+      "result": "第 2 名 · 39 分",
       "outcome": "",
       "players": [
         "XX",
@@ -69,7 +69,7 @@
     {
       "name": "SWQ",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 2 名 · 23 分",
+      "result": "第 3 名 · 28 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -80,7 +80,7 @@
     {
       "name": "2C1M",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 5 名 · 13 分",
+      "result": "第 4 名 · 22 分",
       "outcome": "",
       "players": [
         "Ggod",
@@ -91,7 +91,7 @@
     {
       "name": "DreamFire",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 8 名 · 14 分",
+      "result": "第 6 名 · 21 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -102,7 +102,7 @@
     {
       "name": "Orange",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 8 名 · 11 分",
+      "result": "第 5 名 · 21 分",
       "outcome": "",
       "players": [
         "N1ng",
@@ -113,7 +113,7 @@
     {
       "name": "TEC Black",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 20 名 · 0 分",
+      "result": "第 19 名 · 3 分",
       "outcome": "",
       "players": [
         "Menino",
@@ -124,7 +124,7 @@
     {
       "name": "KPY",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 7 名 · 15 分",
+      "result": "第 8 名 · 18 分",
       "outcome": "",
       "players": [
         "moxi",
@@ -135,7 +135,7 @@
     {
       "name": "BBZ",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 10 名 · 9 分",
+      "result": "第 9 名 · 18 分",
       "outcome": "",
       "players": [
         "suibingbing",
@@ -146,7 +146,7 @@
     {
       "name": "Kirisame",
       "stage": "胜者组第一轮 · B组",
-      "result": "第 1 名 · 38 分",
+      "result": "第 1 名 · 63 分",
       "outcome": "",
       "players": [
         "xKenN",
@@ -157,7 +157,7 @@
     {
       "name": "TEC Academy",
       "stage": "胜者组第一轮 · A组",
-      "result": "第 1 名 · 43 分",
+      "result": "第 1 名 · 64 分",
       "outcome": "",
       "players": [
         "ckkongbai",
