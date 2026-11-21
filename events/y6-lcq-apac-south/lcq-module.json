@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月21日19:15",
+  "updatedAt": "11月21日22:15",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -8,9 +8,13 @@
   "startLabel": "11月20日（周五）17:00",
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
-  "phase": "in_progress",
-  "currentRound": "败者组第二轮",
-  "nextRound": null,
+  "phase": "day_complete",
+  "currentRound": "",
+  "nextRound": {
+    "title": "赛点制决赛",
+    "startsAt": "2026-11-22T04:00:00.000Z",
+    "startLabel": "11月22日（周日）12:00"
+  },
   "scheduleDays": [
     {
       "date": "2026-11-20",
@@ -35,7 +39,7 @@
         {
           "time": "17:00",
           "title": "败者组第二轮",
-          "status": "live"
+          "status": "finished"
         }
       ]
     },
@@ -52,8 +56,8 @@
     }
   ],
   "latestRound": {
-    "title": "败者组第一轮",
-    "completedAt": "2026-11-21T07:14:12.800Z",
+    "title": "败者组第二轮",
+    "completedAt": "2026-11-21T12:04:26.835Z",
     "note": ""
   },
   "qualifiers": [],
@@ -62,8 +66,8 @@
     {
       "name": "Black Hole",
       "stage": "败者组第二轮",
-      "result": "第 3 名 · 33 分",
-      "outcome": "",
+      "result": "第 6 名 · 47 分",
+      "outcome": "进入赛点制决赛",
       "players": [
         "XX",
         "Eastyy",
@@ -73,8 +77,8 @@
     {
       "name": "SWQ",
       "stage": "败者组第二轮",
-      "result": "第 5 名 · 30 分",
-      "outcome": "",
+      "result": "第 7 名 · 46 分",
+      "outcome": "进入赛点制决赛",
       "players": [
         "Bieyun",
         "OuOKh",
@@ -84,8 +88,8 @@
     {
       "name": "2C1M",
       "stage": "败者组第二轮",
-      "result": "第 7 名 · 30 分",
-      "outcome": "",
+      "result": "第 10 名 · 39 分",
+      "outcome": "进入赛点制决赛",
       "players": [
         "Ggod",
         "FengchunOvO",
@@ -106,8 +110,8 @@
     {
       "name": "Orange",
       "stage": "败者组第二轮",
-      "result": "第 6 名 · 30 分",
-      "outcome": "",
+      "result": "第 8 名 · 42 分",
+      "outcome": "进入赛点制决赛",
       "players": [
         "N1ng",
         "跳跳loveJK",
@@ -139,8 +143,8 @@
     {
       "name": "BBZ",
       "stage": "败者组第二轮",
-      "result": "第 18 名 · 7 分",
-      "outcome": "",
+      "result": "第 15 名 · 21 分",
+      "outcome": "已淘汰",
       "players": [
         "suibingbing",
         "Dokiovo",
