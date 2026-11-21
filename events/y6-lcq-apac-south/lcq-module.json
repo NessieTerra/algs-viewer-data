@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月21日14:15",
+  "updatedAt": "11月21日14:45",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -62,7 +62,7 @@
     {
       "name": "Black Hole",
       "stage": "胜者组第二轮",
-      "result": "第 14 名 · 9 分",
+      "result": "第 14 名 · 14 分",
       "outcome": "",
       "players": [
         "XX",
@@ -73,7 +73,7 @@
     {
       "name": "SWQ",
       "stage": "胜者组第二轮",
-      "result": "第 18 名 · 6 分",
+      "result": "第 18 名 · 13 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -84,7 +84,7 @@
     {
       "name": "2C1M",
       "stage": "胜者组第二轮",
-      "result": "第 12 名 · 12 分",
+      "result": "第 13 名 · 14 分",
       "outcome": "",
       "players": [
         "Ggod",
@@ -95,7 +95,7 @@
     {
       "name": "DreamFire",
       "stage": "胜者组第二轮",
-      "result": "第 7 名 · 23 分",
+      "result": "第 6 名 · 36 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -106,7 +106,7 @@
     {
       "name": "Orange",
       "stage": "胜者组第二轮",
-      "result": "第 16 名 · 8 分",
+      "result": "第 10 名 · 23 分",
       "outcome": "",
       "players": [
         "N1ng",
@@ -117,7 +117,7 @@
     {
       "name": "TEC Black",
       "stage": "败者组第一轮",
-      "result": "第 14 名 · 9 分",
+      "result": "第 13 名 · 14 分",
       "outcome": "",
       "players": [
         "Menino",
@@ -128,7 +128,7 @@
     {
       "name": "KPY",
       "stage": "胜者组第二轮",
-      "result": "第 5 名 · 29 分",
+      "result": "第 2 名 · 44 分",
       "outcome": "",
       "players": [
         "moxi",
@@ -139,7 +139,7 @@
     {
       "name": "BBZ",
       "stage": "胜者组第二轮",
-      "result": "第 10 名 · 13 分",
+      "result": "第 16 名 · 13 分",
       "outcome": "",
       "players": [
         "suibingbing",
@@ -150,7 +150,7 @@
     {
       "name": "Kirisame",
       "stage": "胜者组第二轮",
-      "result": "第 9 名 · 15 分",
+      "result": "第 5 名 · 37 分",
       "outcome": "",
       "players": [
         "xKenN",
@@ -161,7 +161,7 @@
     {
       "name": "TEC Academy",
       "stage": "胜者组第二轮",
-      "result": "第 3 名 · 31 分",
+      "result": "第 3 名 · 43 分",
       "outcome": "",
       "players": [
         "ckkongbai",
