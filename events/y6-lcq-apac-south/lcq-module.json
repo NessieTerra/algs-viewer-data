@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月21日16:06",
+  "updatedAt": "11月21日17:30",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -8,13 +8,9 @@
   "startLabel": "11月20日（周五）17:00",
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
-  "phase": "between_rounds",
-  "currentRound": "",
-  "nextRound": {
-    "title": "败者组第二轮",
-    "startsAt": "2026-11-21T09:00:00.000Z",
-    "startLabel": "11月21日（周六）17:00"
-  },
+  "phase": "in_progress",
+  "currentRound": "败者组第二轮",
+  "nextRound": null,
   "scheduleDays": [
     {
       "date": "2026-11-20",
@@ -39,7 +35,7 @@
         {
           "time": "17:00",
           "title": "败者组第二轮",
-          "status": "upcoming"
+          "status": "live"
         }
       ]
     },
@@ -65,9 +61,9 @@
   "chinaTeams": [
     {
       "name": "Black Hole",
-      "stage": "胜者组第二轮",
-      "result": "第 11 名 · 34 分",
-      "outcome": "进入败者组第二轮",
+      "stage": "败者组第二轮",
+      "result": "第 15 名 · 2 分",
+      "outcome": "",
       "players": [
         "XX",
         "Eastyy",
@@ -76,9 +72,9 @@
     },
     {
       "name": "SWQ",
-      "stage": "胜者组第二轮",
-      "result": "第 12 名 · 32 分",
-      "outcome": "进入败者组第二轮",
+      "stage": "败者组第二轮",
+      "result": "第 2 名 · 7 分",
+      "outcome": "",
       "players": [
         "Bieyun",
         "OuOKh",
@@ -87,9 +83,9 @@
     },
     {
       "name": "2C1M",
-      "stage": "胜者组第二轮",
-      "result": "第 14 名 · 26 分",
-      "outcome": "进入败者组第二轮",
+      "stage": "败者组第二轮",
+      "result": "第 1 名 · 8 分",
+      "outcome": "",
       "players": [
         "Ggod",
         "FengchunOvO",
@@ -109,9 +105,9 @@
     },
     {
       "name": "Orange",
-      "stage": "胜者组第二轮",
-      "result": "第 13 名 · 27 分",
-      "outcome": "进入败者组第二轮",
+      "stage": "败者组第二轮",
+      "result": "第 3 名 · 7 分",
+      "outcome": "",
       "players": [
         "N1ng",
         "跳跳loveJK",
@@ -142,9 +138,9 @@
     },
     {
       "name": "BBZ",
-      "stage": "胜者组第二轮",
-      "result": "第 20 名 · 14 分",
-      "outcome": "进入败者组第二轮",
+      "stage": "败者组第二轮",
+      "result": "第 20 名 · 0 分",
+      "outcome": "",
       "players": [
         "suibingbing",
         "Dokiovo",
