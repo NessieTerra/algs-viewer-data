@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日13:36",
+  "updatedAt": "11月22日13:39",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -62,7 +62,7 @@
     {
       "name": "Black Hole",
       "stage": "赛点制决赛",
-      "result": "第 17 名 · 3 分",
+      "result": "第 18 名 · 3 分",
       "outcome": "",
       "players": [
         "XX",
@@ -73,7 +73,7 @@
     {
       "name": "SWQ",
       "stage": "赛点制决赛",
-      "result": "第 12 名 · 9 分",
+      "result": "第 13 名 · 9 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -84,7 +84,7 @@
     {
       "name": "2C1M",
       "stage": "赛点制决赛",
-      "result": "第 13 名 · 7 分",
+      "result": "第 12 名 · 9 分",
       "outcome": "",
       "players": [
         "Ggod",
@@ -95,7 +95,7 @@
     {
       "name": "DreamFire",
       "stage": "赛点制决赛",
-      "result": "第 18 名 · 3 分",
+      "result": "第 17 名 · 3 分",
       "outcome": "",
       "players": [
         "Sid0o",
