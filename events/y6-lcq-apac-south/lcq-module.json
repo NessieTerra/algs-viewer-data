@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月21日22:15",
+  "updatedAt": "11月22日12:30",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -8,13 +8,9 @@
   "startLabel": "11月20日（周五）17:00",
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
-  "phase": "day_complete",
-  "currentRound": "",
-  "nextRound": {
-    "title": "赛点制决赛",
-    "startsAt": "2026-11-22T04:00:00.000Z",
-    "startLabel": "11月22日（周日）12:00"
-  },
+  "phase": "in_progress",
+  "currentRound": "赛点制决赛",
+  "nextRound": null,
   "scheduleDays": [
     {
       "date": "2026-11-20",
@@ -50,7 +46,7 @@
         {
           "time": "12:00",
           "title": "赛点制决赛",
-          "status": "upcoming"
+          "status": "live"
         }
       ]
     }
@@ -65,9 +61,9 @@
   "chinaTeams": [
     {
       "name": "Black Hole",
-      "stage": "败者组第二轮",
-      "result": "第 6 名 · 47 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 15 名 · 0 分",
+      "outcome": "",
       "players": [
         "XX",
         "Eastyy",
@@ -76,9 +72,9 @@
     },
     {
       "name": "SWQ",
-      "stage": "败者组第二轮",
-      "result": "第 7 名 · 46 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 3 名 · 0 分",
+      "outcome": "",
       "players": [
         "Bieyun",
         "OuOKh",
@@ -87,9 +83,9 @@
     },
     {
       "name": "2C1M",
-      "stage": "败者组第二轮",
-      "result": "第 10 名 · 39 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 12 名 · 0 分",
+      "outcome": "",
       "players": [
         "Ggod",
         "FengchunOvO",
@@ -98,9 +94,9 @@
     },
     {
       "name": "DreamFire",
-      "stage": "胜者组第二轮",
-      "result": "第 6 名 · 48 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 17 名 · 0 分",
+      "outcome": "",
       "players": [
         "Sid0o",
         "3Mz",
@@ -109,9 +105,9 @@
     },
     {
       "name": "Orange",
-      "stage": "败者组第二轮",
-      "result": "第 8 名 · 42 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 1 名 · 1 分",
+      "outcome": "",
       "players": [
         "N1ng",
         "跳跳loveJK",
@@ -131,9 +127,9 @@
     },
     {
       "name": "KPY",
-      "stage": "胜者组第二轮",
-      "result": "第 7 名 · 44 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 4 名 · 0 分",
+      "outcome": "",
       "players": [
         "moxi",
         "MarkL1ly",
@@ -153,9 +149,9 @@
     },
     {
       "name": "Kirisame",
-      "stage": "胜者组第二轮",
-      "result": "第 4 名 · 49 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 16 名 · 0 分",
+      "outcome": "",
       "players": [
         "xKenN",
         "XoyoBda",
@@ -164,9 +160,9 @@
     },
     {
       "name": "TEC Academy",
-      "stage": "胜者组第二轮",
-      "result": "第 1 名 · 64 分",
-      "outcome": "进入赛点制决赛",
+      "stage": "赛点制决赛",
+      "result": "第 9 名 · 0 分",
+      "outcome": "",
       "players": [
         "ckkongbai",
         "xiaolin",
