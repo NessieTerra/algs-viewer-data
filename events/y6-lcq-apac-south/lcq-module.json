@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日16:36",
+  "updatedAt": "11月22日16:45",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "finished",
@@ -145,7 +145,7 @@
       "rank": 11,
       "name": "KPY",
       "points": 35,
-      "isChina": false,
+      "isChina": true,
       "qualified": false
     },
     {
@@ -201,7 +201,7 @@
       "rank": 19,
       "name": "SWQ",
       "points": 27,
-      "isChina": false,
+      "isChina": true,
       "qualified": false
     },
     {
