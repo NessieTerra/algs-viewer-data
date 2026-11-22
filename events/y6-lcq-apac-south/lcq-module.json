@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日14:51",
+  "updatedAt": "11月22日14:54",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -73,7 +73,7 @@
     {
       "name": "SWQ",
       "stage": "赛点制决赛",
-      "result": "第 17 名 · 16 分",
+      "result": "第 18 名 · 16 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -95,7 +95,7 @@
     {
       "name": "DreamFire",
       "stage": "赛点制决赛",
-      "result": "第 16 名 · 17 分",
+      "result": "第 17 名 · 17 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -106,7 +106,7 @@
     {
       "name": "Orange",
       "stage": "赛点制决赛",
-      "result": "第 7 名 · 25 分",
+      "result": "第 8 名 · 25 分",
       "outcome": "",
       "players": [
         "N1ng",
@@ -128,7 +128,7 @@
     {
       "name": "KPY",
       "stage": "赛点制决赛",
-      "result": "第 8 名 · 24 分",
+      "result": "第 10 名 · 24 分",
       "outcome": "",
       "players": [
         "moxi",
@@ -150,7 +150,7 @@
     {
       "name": "Kirisame",
       "stage": "赛点制决赛",
-      "result": "第 9 名 · 23 分",
+      "result": "第 11 名 · 23 分",
       "outcome": "",
       "players": [
         "xKenN",
@@ -161,7 +161,7 @@
     {
       "name": "TEC Academy",
       "stage": "赛点制决赛",
-      "result": "第 4 名 · 32 分",
+      "result": "第 5 名 · 33 分",
       "outcome": "",
       "players": [
         "ckkongbai",
