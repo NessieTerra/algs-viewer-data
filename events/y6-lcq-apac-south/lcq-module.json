@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日14:21",
+  "updatedAt": "11月22日14:45",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -73,7 +73,7 @@
     {
       "name": "SWQ",
       "stage": "赛点制决赛",
-      "result": "第 15 名 · 16 分",
+      "result": "第 16 名 · 16 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -95,7 +95,7 @@
     {
       "name": "DreamFire",
       "stage": "赛点制决赛",
-      "result": "第 18 名 · 10 分",
+      "result": "第 19 名 · 10 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -106,7 +106,7 @@
     {
       "name": "Orange",
       "stage": "赛点制决赛",
-      "result": "第 7 名 · 23 分",
+      "result": "第 7 名 · 25 分",
       "outcome": "",
       "players": [
         "N1ng",
