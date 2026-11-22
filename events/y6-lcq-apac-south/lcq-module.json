@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日15:51",
+  "updatedAt": "11月22日15:54",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -128,7 +128,7 @@
     {
       "name": "KPY",
       "stage": "赛点制决赛",
-      "result": "第 9 名 · 33 分",
+      "result": "第 10 名 · 33 分",
       "outcome": "",
       "players": [
         "moxi",
