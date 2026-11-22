@@ -1,6 +1,6 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日16:00",
+  "updatedAt": "11月22日16:03",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
   "state": "live",
@@ -62,7 +62,7 @@
     {
       "name": "Black Hole",
       "stage": "赛点制决赛",
-      "result": "第 19 名 · 21 分",
+      "result": "第 19 名 · 22 分",
       "outcome": "",
       "players": [
         "XX",
@@ -161,7 +161,7 @@
     {
       "name": "TEC Academy",
       "stage": "赛点制决赛",
-      "result": "第 3 名 · 63 分",
+      "result": "第 2 名 · 68 分",
       "outcome": "",
       "players": [
         "ckkongbai",
