@@ -1,15 +1,15 @@
 {
   "eventId": "y6-lcq-apac-south",
-  "updatedAt": "11月22日16:30",
+  "updatedAt": "11月22日16:36",
   "source": "ALGS Official (algs.ea.com via algstools)",
   "uiExample": false,
-  "state": "live",
+  "state": "finished",
   "startsAt": "2026-11-20T09:00:00.000Z",
   "startLabel": "11月20日（周五）17:00",
   "eventDateLabel": "11月20日—22日",
   "eventDateRange": "2026年11月20日—11月22日",
-  "phase": "in_progress",
-  "currentRound": "赛点制决赛",
+  "phase": null,
+  "currentRound": "",
   "nextRound": null,
   "scheduleDays": [
     {
@@ -46,23 +46,177 @@
         {
           "time": "12:00",
           "title": "赛点制决赛",
-          "status": "live"
+          "status": "finished"
         }
       ]
     }
   ],
   "latestRound": {
-    "title": "败者组第二轮",
-    "completedAt": "2026-11-21T12:04:26.835Z",
+    "title": "赛点制决赛",
+    "completedAt": "2026-11-22T08:22:47.287Z",
     "note": ""
   },
-  "qualifiers": [],
-  "finalStandings": [],
+  "qualifiers": [
+    {
+      "name": "Daylight Savings",
+      "shortName": "",
+      "logo": "/assets/lcq/apex-default.webp",
+      "result": "第 1 名 · 84 分"
+    },
+    {
+      "name": "CPR",
+      "shortName": "",
+      "logo": "/assets/lcq/apex-default.webp",
+      "result": "第 2 名 · 75 分"
+    }
+  ],
+  "finalStandings": [
+    {
+      "rank": 1,
+      "name": "Daylight Savings",
+      "points": 84,
+      "isChina": false,
+      "qualified": true
+    },
+    {
+      "rank": 2,
+      "name": "CPR",
+      "points": 75,
+      "isChina": false,
+      "qualified": true
+    },
+    {
+      "rank": 3,
+      "name": "TEC-Academy",
+      "points": 72,
+      "isChina": true,
+      "qualified": false
+    },
+    {
+      "rank": 4,
+      "name": "TuBoShu",
+      "points": 69,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 5,
+      "name": "ASC3NT",
+      "points": 55,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 6,
+      "name": "HAB",
+      "points": 55,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 7,
+      "name": "UBI CILEMBU",
+      "points": 52,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 8,
+      "name": "TitanEsportsClub",
+      "points": 50,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 9,
+      "name": "Dogred",
+      "points": 41,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 10,
+      "name": "GenZ",
+      "points": 38,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 11,
+      "name": "KPY",
+      "points": 35,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 12,
+      "name": "Kirisame",
+      "points": 35,
+      "isChina": true,
+      "qualified": false
+    },
+    {
+      "rank": 13,
+      "name": "MaMa Clubs",
+      "points": 34,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 14,
+      "name": "ARAM",
+      "points": 33,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 15,
+      "name": "Orange",
+      "points": 32,
+      "isChina": true,
+      "qualified": false
+    },
+    {
+      "rank": 16,
+      "name": "2C1M",
+      "points": 32,
+      "isChina": true,
+      "qualified": false
+    },
+    {
+      "rank": 17,
+      "name": "Void Esports OCE",
+      "points": 32,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 18,
+      "name": "DreamFire",
+      "points": 28,
+      "isChina": true,
+      "qualified": false
+    },
+    {
+      "rank": 19,
+      "name": "SWQ",
+      "points": 27,
+      "isChina": false,
+      "qualified": false
+    },
+    {
+      "rank": 20,
+      "name": "black hole",
+      "points": 24,
+      "isChina": true,
+      "qualified": false
+    }
+  ],
   "chinaTeams": [
     {
       "name": "Black Hole",
       "stage": "赛点制决赛",
-      "result": "第 20 名 · 24 分",
+      "result": "最终第 20 名 · 24 分",
       "outcome": "",
       "players": [
         "XX",
@@ -73,7 +227,7 @@
     {
       "name": "SWQ",
       "stage": "赛点制决赛",
-      "result": "第 19 名 · 27 分",
+      "result": "最终第 19 名 · 27 分",
       "outcome": "",
       "players": [
         "Bieyun",
@@ -84,7 +238,7 @@
     {
       "name": "2C1M",
       "stage": "赛点制决赛",
-      "result": "第 16 名 · 32 分",
+      "result": "最终第 16 名 · 32 分",
       "outcome": "",
       "players": [
         "Ggod",
@@ -95,7 +249,7 @@
     {
       "name": "DreamFire",
       "stage": "赛点制决赛",
-      "result": "第 18 名 · 28 分",
+      "result": "最终第 18 名 · 28 分",
       "outcome": "",
       "players": [
         "Sid0o",
@@ -106,7 +260,7 @@
     {
       "name": "Orange",
       "stage": "赛点制决赛",
-      "result": "第 15 名 · 32 分",
+      "result": "最终第 15 名 · 32 分",
       "outcome": "",
       "players": [
         "N1ng",
@@ -128,7 +282,7 @@
     {
       "name": "KPY",
       "stage": "赛点制决赛",
-      "result": "第 11 名 · 35 分",
+      "result": "最终第 11 名 · 35 分",
       "outcome": "",
       "players": [
         "moxi",
@@ -150,7 +304,7 @@
     {
       "name": "Kirisame",
       "stage": "赛点制决赛",
-      "result": "第 12 名 · 35 分",
+      "result": "最终第 12 名 · 35 分",
       "outcome": "",
       "players": [
         "xKenN",
@@ -161,7 +315,7 @@
     {
       "name": "TEC Academy",
       "stage": "赛点制决赛",
-      "result": "第 3 名 · 72 分",
+      "result": "最终第 3 名 · 72 分",
       "outcome": "",
       "players": [
         "ckkongbai",
